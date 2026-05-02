@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="title desc">
+	<title id="title">Nail sizing coin method guide</title>
+	<desc id="desc">Instructions to send two nail sizing photos: four fingers next to a coin and thumb next to a coin, taken directly above with fingers closed.</desc>
+	<defs>
+		<linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+			<stop offset="0" stop-color="#fffdf9" />
+			<stop offset="0.55" stop-color="#fff7fb" />
+			<stop offset="1" stop-color="#f7e9ee" />
+		</linearGradient>
+		<linearGradient id="pink" x1="0" y1="0" x2="1" y2="1">
+			<stop offset="0" stop-color="#f9a6d1" />
+			<stop offset="1" stop-color="#d94fa4" />
+		</linearGradient>
+		<linearGradient id="skin" x1="0" y1="0" x2="0" y2="1">
+			<stop offset="0" stop-color="#f8d4c4" />
+			<stop offset="1" stop-color="#e8a58d" />
+		</linearGradient>
+		<filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+			<feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#8d4d66" flood-opacity="0.18" />
+		</filter>
+	</defs>
+	<rect width="900" height="700" rx="34" fill="url(#paper)" />
+	<path d="M36 96 C214 14 278 154 420 76 C575 -10 672 83 864 38" fill="none" stroke="#ffffff" stroke-width="38" stroke-opacity="0.55" />
+	<path d="M15 610 C210 534 316 666 456 589 C603 507 719 605 899 552" fill="none" stroke="#f4c4dc" stroke-width="54" stroke-opacity="0.35" />
+	<text x="450" y="90" text-anchor="middle" font-family="Georgia, serif" font-size="56" fill="#7a3d45" letter-spacing="5">COIN METHOD</text>
+	<text x="450" y="156" text-anchor="middle" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#7a3d45">Please send through 2 photos</text>
+	<g font-family="Arial, sans-serif" font-size="27" fill="#7a3d45">
+		<circle cx="144" cy="213" r="5" fill="#d94fa4" />
+		<text x="162" y="223">Next to any coin</text>
+		<circle cx="144" cy="254" r="5" fill="#d94fa4" />
+		<text x="162" y="264">Taken directly above, fingers closed</text>
+	</g>
+	<line x1="60" y1="302" x2="840" y2="302" stroke="#7a3d45" stroke-width="2" opacity="0.75" />
+	<line x1="450" y1="302" x2="450" y2="660" stroke="#7a3d45" stroke-width="2" opacity="0.75" />
+	<text x="225" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="800" fill="#7a3d45">4 FINGERS</text>
+	<text x="675" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="800" fill="#7a3d45">THUMB</text>
+	<g filter="url(#shadow)">
+		<rect x="106" y="520" width="200" height="80" rx="34" fill="url(#skin)" />
+		<rect x="120" y="410" width="42" height="152" rx="21" fill="url(#skin)" />
+		<rect x="169" y="386" width="42" height="176" rx="21" fill="url(#skin)" />
+		<rect x="218" y="396" width="42" height="166" rx="21" fill="url(#skin)" />
+		<rect x="267" y="428" width="42" height="134" rx="21" fill="url(#skin)" />
+		<ellipse cx="141" cy="408" rx="16" ry="25" fill="#fff8fb" stroke="#d94fa4" stroke-width="2" />
+		<ellipse cx="190" cy="384" rx="16" ry="25" fill="#fff8fb" stroke="#d94fa4" stroke-width="2" />
+		<ellipse cx="239" cy="394" rx="16" ry="25" fill="#fff8fb" stroke="#d94fa4" stroke-width="2" />
+		<ellipse cx="288" cy="426" rx="16" ry="25" fill="#fff8fb" stroke="#d94fa4" stroke-width="2" />
+		<circle cx="338" cy="436" r="39" fill="#d9d2aa" stroke="#a8a06f" stroke-width="3" />
+		<circle cx="338" cy="436" r="28" fill="none" stroke="#a8a06f" stroke-width="2" opacity="0.7" />
+		<text x="338" y="446" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#91895d">¢</text>
+	</g>
+	<g filter="url(#shadow)">
+		<path d="M608 602 C588 550 594 457 629 424 C654 400 696 407 706 439 C721 486 715 554 741 602 Z" fill="url(#skin)" />
+		<rect x="635" y="418" width="54" height="144" rx="27" fill="url(#skin)" />
+		<ellipse cx="662" cy="418" rx="20" ry="30" fill="#fff8fb" stroke="#d94fa4" stroke-width="2" />
+		<circle cx="742" cy="441" r="41" fill="#d9d2aa" stroke="#a8a06f" stroke-width="3" />
+		<circle cx="742" cy="441" r="29" fill="none" stroke="#a8a06f" stroke-width="2" opacity="0.7" />
+		<text x="742" y="451" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#91895d">¢</text>
+	</g>
+</svg>
